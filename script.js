@@ -1,6 +1,6 @@
 Shery.mouseFollower();
 Shery.makeMagnet(".magnet")
-Shery.hoverWithMediaCircle(".hrv", {videos: ["..videos/0.mp4", "..videos/2.mp4", "..videos/3.mp4"]})
+Shery.hoverWithMediaCircle(".hrv", {videos: ["videos/0.mp4", "videos/2.mp4", "videos/3.mp4"]})
 
 gsap.to(".leftelem",{
     y: "-300%",
